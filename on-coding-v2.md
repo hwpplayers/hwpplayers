@@ -2,18 +2,18 @@
 
 ### About Branches
 
-1. playground-x(version number here)
+1. devel-x(version number here)
 2. master-x(version number here)
-3. stable-x(version number here)
+
 
 ### About Pull Requests
 
-Send your Pull Requests to playground-x branch first. Then hwpplayers will analyze the code / information that you have send
+Send your Pull Requests to devel-x branch first. Then hwpplayers will analyze the code / information that you have send
 
 ### About Merging Source Code
 
-1. Next stage is we'll merge playground source code / information with master-x branch , this is a release stage.
-2. Then the next stage is testing the source code / information and merging the source code / information with stable-x branch
+1. Next stage is we'll merge devel-x source code / information with master-x branch , this is a release stage.
+2. Then the next stage is testing the source code / information and merging the source code / information with master-x branch
 
 ## Preferred Github Account Settings for "core team"
 
@@ -44,7 +44,7 @@ If the programs runs over a network please choose AGPLv3 license otherwise GPLv3
 
 #### Code distribution rules
 
-hwpplayers never puts a source code / information into stable-x branches without security testing and correcting the information. Test twice your code and information and then send your pull request to all branches ( playground-x , master-x and stable-x ). hwpplayers pays, fixes, tries, makes.
+hwpplayers never puts a source code / information into master-x branches without security testing and correcting the information. Test twice your code and information and then send your pull request to all branches ( devel-x and master-x ). hwpplayers pays, fixes, tries, makes.
 
 This document is licensed under the terms [GNU Free Documentation License](https://www.gnu.org/licenses/fdl-1.3.en.html)
 
@@ -52,4 +52,4 @@ If you have any questions please create an issue on this repository or join [hwp
 
 on-coding.md Coding Rules , Account Privacy and Contribution information for hwpplayers , this document will be updated by getting feedback from members and other contributers
 
-on-coding.md v1
+## on-coding.md v2
