@@ -44,7 +44,7 @@ If the programs runs over a network please choose AGPLv3 license otherwise GPLv3
 
 #### Code distribution rules
 
-hwpplayers never puts a source code / information into stable-x branches without security testing and correcting the information. Test twice your code and information and then send your pull request to all branches ( playground-x , master-x and stable-x ).
+hwpplayers never puts a source code / information into stable-x branches without security testing and correcting the information. Test twice your code and information and then send your pull request to all branches ( playground-x , master-x and stable-x ). hwpplayers pays, fixes, tries, makes.
 
 This document is licensed under the terms [GNU Free Documentation License](https://www.gnu.org/licenses/fdl-1.3.en.html)
 
