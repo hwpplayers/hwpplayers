@@ -2,3 +2,4 @@ hwpplayers ( hard working philosophers players ) is a hackerspace ( please look 
 
 It is hard to write a simple definition of something as varied as hacking, but I think what these activities have in common is playfulness, cleverness, and exploration. Thus, hacking means exploring the limits of what is possible, in a spirit of playful cleverness. Activities that display playful cleverness have "hack value". 
 
+Please read [How to choose a license for your own work](https://www.gnu.org/licenses/license-recommendations.html) article for learning how to choose a license for your own work. Please create an issue at this repository for another license.
