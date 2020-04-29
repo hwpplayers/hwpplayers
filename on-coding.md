@@ -48,6 +48,6 @@ hwpplayers never puts a source code / information into stable-x branches without
 
 This document is licensed under the terms [GNU Free Documentation License](https://www.gnu.org/licenses/fdl-1.3.en.html)
 
-If you have any questions please create an issue at this repository or join [hwpplayers Telegram group](https://t.me/hwpplayers) to ask your question.
+If you have any questions please create an issue on this repository or join [hwpplayers Telegram group](https://t.me/hwpplayers) to ask your question.
 
 on-coding.md Coding Rules , Account Privacy and Contribution information for hwpplayers , this document will be updated by getting feedback from members and other contributers
